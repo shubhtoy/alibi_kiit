@@ -1,0 +1,41 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 60
+Files info:
+Site URL = http://localhost/alibi
+Data file = C:\MAMP\htdocs\alibi/wp-content/uploads/2022/01/demo-content-import-file_2022-01-25__18-42-43.xml
+Widget file = not defined!
+Customizer file = C:\MAMP\htdocs\alibi/wp-content/uploads/2022/01/demo-customizer-import-file_2022-01-25__18-42-43.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

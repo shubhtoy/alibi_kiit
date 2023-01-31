@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Books &#8211; Alibi | Abhivyakti Evolve</title>
+	<atom:link href="https://shubhtoy.github.io/alibi_/tag/books/feed/" rel="self" type="application/rss+xml" />
+	<link>https://shubhtoy.github.io/alibi_</link>
+	<description></description>
+	<lastBuildDate>Tue, 25 Jan 2022 18:45:57 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>https://shubhtoy.github.io/alibi_/wp-content/uploads/2020/02/favicon.png</url>
+	<title>Books &#8211; Alibi | Abhivyakti Evolve</title>
+	<link>https://shubhtoy.github.io/alibi_</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Basic Space</title>
+		<link>https://shubhtoy.github.io/alibi_/2020/03/05/basic-space/</link>
+					<comments>https://shubhtoy.github.io/alibi_/2020/03/05/basic-space/#comments</comments>
+		
+		<dc:creator><![CDATA[shubh]]></dc:creator>
+		<pubDate>Thu, 05 Mar 2020 15:19:22 +0000</pubDate>
+				<category><![CDATA[Jobs]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Books]]></category>
+		<category><![CDATA[Talks]]></category>
+		<category><![CDATA[Trips]]></category>
+		<guid isPermaLink="false">https://themerain.com/demo/scene/?p=112</guid>
+
+					<description><![CDATA[It’s debatable how the background of graphic design needs to be shared. There’s the discussion of different designers, and their notable works.]]></description>
+										<content:encoded><![CDATA[
+<p>Philosophy of design is the study of assumptions, foundations, and implications of design. The field is defined by an interest in a set of problems, or an interest in central or foundational concerns in design. In addition to these central problems for design as a whole, many philosophers of design consider these problems as they apply to particular disciplines (e.g. philosophy of art). Although most practitioners are philosophers, several prominent designers and artists have contributed to the field. Graphic design has seen many changes and influences.</p>
+
+
+
+<figure class="wp-block-image alignwide size-full"><img width="1400" height="933" src="https://shubhtoy.github.io/alibi_/wp-content/uploads/2019/11/addbfe86394581.5d97bfac9662c.jpg" alt="" class="wp-image-104"/></figure>
+
+
+
+<p>The field needs more depth, in a sense graphic design needs to find itself, all while evolving at the same time. It’s debatable how the background of graphic design needs to be shared. There’s the discussion of different designers, and their notable works. Portrayals of how the physical art has changed and been inspired by past all while embracing the future.</p>
+
+
+
+<p>Graphic Design as a field is young. There is not enough information about how it came to be. There is subtle information about society accepting messages being put in front of them. There’s not enough information given to design students about where the concept for graphic design comes from, or at least an understanding about the original forms of communications that used more than words, or why typography has such a large impact.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://shubhtoy.github.io/alibi_/2020/03/05/basic-space/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The Future of Everything</title>
+		<link>https://shubhtoy.github.io/alibi_/2020/03/02/the-future-of-everything/</link>
+		
+		<dc:creator><![CDATA[shubh]]></dc:creator>
+		<pubDate>Mon, 02 Mar 2020 15:18:01 +0000</pubDate>
+				<category><![CDATA[Life]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Books]]></category>
+		<category><![CDATA[Labs]]></category>
+		<category><![CDATA[Trips]]></category>
+		<guid isPermaLink="false">https://themerain.com/demo/scene/?p=106</guid>
+
+					<description><![CDATA[Although most practitioners are philosophers, several prominent designers and artists have contributed to the field. Graphic design has seen many changes and influences.]]></description>
+										<content:encoded><![CDATA[
+<p>Philosophy of design is the study of assumptions, foundations, and implications of design. The field is defined by an interest in a set of problems, or an interest in central or foundational concerns in design. In addition to these central problems for design as a whole, many philosophers of design consider these problems as they apply to particular disciplines (e.g. philosophy of art). Although most practitioners are philosophers, several prominent designers and artists have contributed to the field. Graphic design has seen many changes and influences.</p>
+
+
+
+<p>The field needs more depth, in a sense graphic design needs to find itself, all while evolving at the same time. It’s debatable how the background of graphic design needs to be shared. There’s the discussion of different designers, and their notable works. Portrayals of how the physical art has changed and been inspired by past all while embracing the future.</p>
+
+
+
+<p>Graphic Design as a field is young. There is not enough information about how it came to be. There is subtle information about society accepting messages being put in front of them. There’s not enough information given to design students about where the concept for graphic design comes from, or at least an understanding about the original forms of communications that used more than words, or why typography has such a large impact.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
