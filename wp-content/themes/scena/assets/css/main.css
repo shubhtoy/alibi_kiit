@@ -78,32 +78,32 @@ body {
 @font-face {
   font-family: Inter;
   font-display: swap;
-  src: url(https://shubhtoy.github.io/alibi_/wp-content/themes/scena/assets/fonts/Inter-Regular.woff2) format("woff2");
+  src: url(https://shubhtoy.github.io/alibi_kiit/wp-content/themes/scena/assets/fonts/Inter-Regular.woff2) format("woff2");
 }
 @font-face {
   font-family: Inter;
   font-style: italic;
   font-display: swap;
-  src: url(https://shubhtoy.github.io/alibi_/wp-content/themes/scena/assets/fonts/Inter-Italic.woff2) format("woff2");
+  src: url(https://shubhtoy.github.io/alibi_kiit/wp-content/themes/scena/assets/fonts/Inter-Italic.woff2) format("woff2");
 }
 @font-face {
   font-family: Inter;
   font-weight: 600;
   font-display: swap;
-  src: url(https://shubhtoy.github.io/alibi_/wp-content/themes/scena/assets/fonts/Inter-Bold.woff2) format("woff2");
+  src: url(https://shubhtoy.github.io/alibi_kiit/wp-content/themes/scena/assets/fonts/Inter-Bold.woff2) format("woff2");
 }
 @font-face {
   font-family: Inter;
   font-weight: 600;
   font-style: italic;
   font-display: swap;
-  src: url(https://shubhtoy.github.io/alibi_/wp-content/themes/scena/assets/fonts/Inter-BoldItalic.woff2) format("woff2");
+  src: url(https://shubhtoy.github.io/alibi_kiit/wp-content/themes/scena/assets/fonts/Inter-BoldItalic.woff2) format("woff2");
 }
 @font-face {
   font-family: Inter;
   font-weight: 700;
   font-display: swap;
-  src: url(https://shubhtoy.github.io/alibi_/wp-content/themes/scena/assets/fonts/Inter-ExtraBold.woff2) format("woff2");
+  src: url(https://shubhtoy.github.io/alibi_kiit/wp-content/themes/scena/assets/fonts/Inter-ExtraBold.woff2) format("woff2");
 }
 /* Screen Reader Text ------------------------ */
 .screen-reader-text {

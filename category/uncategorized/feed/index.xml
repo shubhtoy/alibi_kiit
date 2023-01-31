@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; Alibi | Abhivyakti Evolve</title>
-	<atom:link href="https://shubhtoy.github.io/alibi_/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>https://shubhtoy.github.io/alibi_</link>
+	<atom:link href="https://shubhtoy.github.io/alibi_kiit/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://shubhtoy.github.io/alibi_kiit</link>
 	<description></description>
 	<lastBuildDate>Sun, 23 Jan 2022 15:24:48 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,31 +18,31 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 <image>
-	<url>https://shubhtoy.github.io/alibi_/wp-content/uploads/2020/02/favicon.png</url>
+	<url>https://shubhtoy.github.io/alibi_kiit/wp-content/uploads/2020/02/favicon.png</url>
 	<title>Uncategorized &#8211; Alibi | Abhivyakti Evolve</title>
-	<link>https://shubhtoy.github.io/alibi_</link>
+	<link>https://shubhtoy.github.io/alibi_kiit</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>https://shubhtoy.github.io/alibi_/2022/01/23/hello-world/</link>
-					<comments>https://shubhtoy.github.io/alibi_/2022/01/23/hello-world/#comments</comments>
+		<link>https://shubhtoy.github.io/alibi_kiit/2022/01/23/hello-world/</link>
+					<comments>https://shubhtoy.github.io/alibi_kiit/2022/01/23/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[shubh]]></dc:creator>
 		<pubDate>Sun, 23 Jan 2022 15:24:48 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://shubhtoy.github.io/alibi_/?p=1</guid>
+		<guid isPermaLink="false">https://shubhtoy.github.io/alibi_kiit/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://shubhtoy.github.io/alibi_/2022/01/23/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://shubhtoy.github.io/alibi_kiit/2022/01/23/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

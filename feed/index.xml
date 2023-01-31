@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Alibi | Abhivyakti Evolve</title>
-	<atom:link href="https://shubhtoy.github.io/alibi_/feed/" rel="self" type="application/rss+xml" />
-	<link>https://shubhtoy.github.io/alibi_</link>
+	<atom:link href="https://shubhtoy.github.io/alibi_kiit/feed/" rel="self" type="application/rss+xml" />
+	<link>https://shubhtoy.github.io/alibi_kiit</link>
 	<description></description>
 	<lastBuildDate>Tue, 25 Jan 2022 18:45:57 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,39 +18,39 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 <image>
-	<url>https://shubhtoy.github.io/alibi_/wp-content/uploads/2020/02/favicon.png</url>
+	<url>https://shubhtoy.github.io/alibi_kiit/wp-content/uploads/2020/02/favicon.png</url>
 	<title>Alibi | Abhivyakti Evolve</title>
-	<link>https://shubhtoy.github.io/alibi_</link>
+	<link>https://shubhtoy.github.io/alibi_kiit</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>https://shubhtoy.github.io/alibi_/2022/01/23/hello-world/</link>
-					<comments>https://shubhtoy.github.io/alibi_/2022/01/23/hello-world/#comments</comments>
+		<link>https://shubhtoy.github.io/alibi_kiit/2022/01/23/hello-world/</link>
+					<comments>https://shubhtoy.github.io/alibi_kiit/2022/01/23/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[shubh]]></dc:creator>
 		<pubDate>Sun, 23 Jan 2022 15:24:48 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://shubhtoy.github.io/alibi_/?p=1</guid>
+		<guid isPermaLink="false">https://shubhtoy.github.io/alibi_kiit/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://shubhtoy.github.io/alibi_/2022/01/23/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://shubhtoy.github.io/alibi_kiit/2022/01/23/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Basic Space</title>
-		<link>https://shubhtoy.github.io/alibi_/2020/03/05/basic-space/</link>
-					<comments>https://shubhtoy.github.io/alibi_/2020/03/05/basic-space/#comments</comments>
+		<link>https://shubhtoy.github.io/alibi_kiit/2020/03/05/basic-space/</link>
+					<comments>https://shubhtoy.github.io/alibi_kiit/2020/03/05/basic-space/#comments</comments>
 		
 		<dc:creator><![CDATA[shubh]]></dc:creator>
 		<pubDate>Thu, 05 Mar 2020 15:19:22 +0000</pubDate>
@@ -67,7 +67,7 @@
 
 
 
-<figure class="wp-block-image alignwide size-full"><img width="1400" height="933" src="https://shubhtoy.github.io/alibi_/wp-content/uploads/2019/11/addbfe86394581.5d97bfac9662c.jpg" alt="" class="wp-image-104"/></figure>
+<figure class="wp-block-image alignwide size-full"><img decoding="async" width="1400" height="933" src="https://shubhtoy.github.io/alibi_kiit/wp-content/uploads/2019/11/addbfe86394581.5d97bfac9662c.jpg" alt="" class="wp-image-104"/></figure>
 
 
 
@@ -78,14 +78,14 @@
 <p>Graphic Design as a field is young. There is not enough information about how it came to be. There is subtle information about society accepting messages being put in front of them. There’s not enough information given to design students about where the concept for graphic design comes from, or at least an understanding about the original forms of communications that used more than words, or why typography has such a large impact.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://shubhtoy.github.io/alibi_/2020/03/05/basic-space/feed/</wfw:commentRss>
+					<wfw:commentRss>https://shubhtoy.github.io/alibi_kiit/2020/03/05/basic-space/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Street Faces</title>
-		<link>https://shubhtoy.github.io/alibi_/2020/03/04/street-faces/</link>
+		<link>https://shubhtoy.github.io/alibi_kiit/2020/03/04/street-faces/</link>
 		
 		<dc:creator><![CDATA[shubh]]></dc:creator>
 		<pubDate>Wed, 04 Mar 2020 12:47:21 +0000</pubDate>
@@ -111,7 +111,7 @@
 			</item>
 		<item>
 		<title>The Summer Tour</title>
-		<link>https://shubhtoy.github.io/alibi_/2020/03/03/the-summer-tour/</link>
+		<link>https://shubhtoy.github.io/alibi_kiit/2020/03/03/the-summer-tour/</link>
 		
 		<dc:creator><![CDATA[shubh]]></dc:creator>
 		<pubDate>Tue, 03 Mar 2020 15:17:27 +0000</pubDate>
@@ -127,7 +127,7 @@
 
 
 
-<figure class="wp-container-2 wp-block-gallery-1 wp-block-gallery alignfull columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><a href="https://shubhtoy.github.io/alibi_/wp-content/uploads/2019/11/3589b169299759.5b842a45dd38c.jpg"><img src="https://themerain.com/demo/scena/wp-content/uploads/2019/11/3589b169299759.5b842a45dd38c-1024x683.jpg" alt="" data-id="92" data-full-url="https://shubhtoy.github.io/alibi_/wp-content/uploads/2019/11/3589b169299759.5b842a45dd38c.jpg" data-link="https://themerain.com/demo/scena/into-the-great-wide-open/3589b169299759-5b842a45dd38c/" class="wp-image-92"/></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://shubhtoy.github.io/alibi_/wp-content/uploads/2019/11/559cc669299759.5b7c3ab47ac1d.jpg"><img src="https://themerain.com/demo/scena/wp-content/uploads/2019/11/559cc669299759.5b7c3ab47ac1d-1024x683.jpg" alt="" data-id="88" data-full-url="https://shubhtoy.github.io/alibi_/wp-content/uploads/2019/11/559cc669299759.5b7c3ab47ac1d.jpg" data-link="https://themerain.com/demo/scena/normal-is-not-boring__trashed/559cc669299759-5b7c3ab47ac1d/" class="wp-image-88"/></a></figure></li></ul></figure>
+<figure class="is-layout-flex wp-block-gallery-1 wp-block-gallery alignfull columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><a href="https://shubhtoy.github.io/alibi_kiit/wp-content/uploads/2019/11/3589b169299759.5b842a45dd38c.jpg"><img decoding="async" src="https://themerain.com/demo/scena/wp-content/uploads/2019/11/3589b169299759.5b842a45dd38c-1024x683.jpg" alt="" data-id="92" data-full-url="https://shubhtoy.github.io/alibi_kiit/wp-content/uploads/2019/11/3589b169299759.5b842a45dd38c.jpg" data-link="https://themerain.com/demo/scena/into-the-great-wide-open/3589b169299759-5b842a45dd38c/" class="wp-image-92"/></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://shubhtoy.github.io/alibi_kiit/wp-content/uploads/2019/11/559cc669299759.5b7c3ab47ac1d.jpg"><img decoding="async" src="https://themerain.com/demo/scena/wp-content/uploads/2019/11/559cc669299759.5b7c3ab47ac1d-1024x683.jpg" alt="" data-id="88" data-full-url="https://shubhtoy.github.io/alibi_kiit/wp-content/uploads/2019/11/559cc669299759.5b7c3ab47ac1d.jpg" data-link="https://themerain.com/demo/scena/normal-is-not-boring__trashed/559cc669299759-5b7c3ab47ac1d/" class="wp-image-88"/></a></figure></li></ul></figure>
 
 
 
@@ -143,7 +143,7 @@
 			</item>
 		<item>
 		<title>The Future of Everything</title>
-		<link>https://shubhtoy.github.io/alibi_/2020/03/02/the-future-of-everything/</link>
+		<link>https://shubhtoy.github.io/alibi_kiit/2020/03/02/the-future-of-everything/</link>
 		
 		<dc:creator><![CDATA[shubh]]></dc:creator>
 		<pubDate>Mon, 02 Mar 2020 15:18:01 +0000</pubDate>
@@ -172,7 +172,7 @@
 			</item>
 		<item>
 		<title>Don’t Pause to Think</title>
-		<link>https://shubhtoy.github.io/alibi_/2020/03/01/dont-pause-to-think/</link>
+		<link>https://shubhtoy.github.io/alibi_kiit/2020/03/01/dont-pause-to-think/</link>
 		
 		<dc:creator><![CDATA[shubh]]></dc:creator>
 		<pubDate>Sun, 01 Mar 2020 15:18:38 +0000</pubDate>
@@ -201,7 +201,7 @@
 			</item>
 		<item>
 		<title>Surf Ranch</title>
-		<link>https://shubhtoy.github.io/alibi_/2020/02/28/surf-ranch/</link>
+		<link>https://shubhtoy.github.io/alibi_kiit/2020/02/28/surf-ranch/</link>
 		
 		<dc:creator><![CDATA[shubh]]></dc:creator>
 		<pubDate>Fri, 28 Feb 2020 12:47:57 +0000</pubDate>
@@ -227,7 +227,7 @@
 			</item>
 		<item>
 		<title>Blaze New Trails</title>
-		<link>https://shubhtoy.github.io/alibi_/2020/02/27/blaze-new-trails/</link>
+		<link>https://shubhtoy.github.io/alibi_kiit/2020/02/27/blaze-new-trails/</link>
 		
 		<dc:creator><![CDATA[shubh]]></dc:creator>
 		<pubDate>Thu, 27 Feb 2020 12:48:12 +0000</pubDate>
@@ -253,7 +253,7 @@
 			</item>
 		<item>
 		<title>Between the Seasons</title>
-		<link>https://shubhtoy.github.io/alibi_/2019/11/17/between-the-seasons/</link>
+		<link>https://shubhtoy.github.io/alibi_kiit/2019/11/17/between-the-seasons/</link>
 		
 		<dc:creator><![CDATA[shubh]]></dc:creator>
 		<pubDate>Sun, 17 Nov 2019 20:38:46 +0000</pubDate>
@@ -282,7 +282,7 @@
 			</item>
 		<item>
 		<title>Into The Great Wide Open</title>
-		<link>https://shubhtoy.github.io/alibi_/2019/11/16/into-the-great-wide-open/</link>
+		<link>https://shubhtoy.github.io/alibi_kiit/2019/11/16/into-the-great-wide-open/</link>
 		
 		<dc:creator><![CDATA[shubh]]></dc:creator>
 		<pubDate>Sat, 16 Nov 2019 15:13:54 +0000</pubDate>
